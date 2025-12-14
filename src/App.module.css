@@ -1,0 +1,12 @@
+.container {
+  width: 380px;
+  margin-left: 0px;
+  padding: 20px;
+  border-radius: 12px;
+  background-color: #f9f9f9;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+}
+.contact {
+  margin-left: 18px;
+}
